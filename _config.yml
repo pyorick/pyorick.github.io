@@ -116,7 +116,7 @@ author:
   name             : "이은표"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PS와 AI를 다루는 블로그입니다."
-  location         : "경기도 하남"
+  location         : "대한민국 경기도 하남시"
   email            : "pyodev0621@gmail.com"
   links:
     - label: "Email"
